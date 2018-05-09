@@ -1,0 +1,25 @@
+{
+    "git.decorations.enabled": false,
+    "workbench.colorTheme": "Default Light+",
+    "editor.tabSize": 2,
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": false,
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}",
+    "files.autoSave": "onFocusChange",
+    "markdown.preview.scrollEditorWithPreview": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "git.path": "C:\\Tools\\Git\\cmd\\git.exe",
+    "git.autofetch": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.formatOnPaste": true,
+    "problems.decorations.enabled": false,
+    "mocha.files.glob": "dist/test/**/*.js",
+    "window.zoomLevel": 0,
+    "python.linting.enabled": false,
+    "python.linting.mypyArgs": [
+        "--ignore-missing-imports",
+        "--follow-imports=silent"
+    ],
+}
