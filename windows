@@ -1,1 +1,1 @@
-PROMPT=[$P]$_G 
+PROMPT=[$P]$_$G 
